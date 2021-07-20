@@ -49,5 +49,5 @@ Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard Un
 <a href="https://www.instagram.com/beetyrant/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/isabella-tarantino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-##### Credit
+### Credit
 Credit where it's due! The drawing in the banner was made with [this](https://picrew.me/image_maker/296093) picrew, and badges come from [this](https://github.com/alexandresanlim/Badges4-README.md-Profile) repo. 
