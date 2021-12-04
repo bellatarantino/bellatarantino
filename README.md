@@ -2,7 +2,7 @@
 
 <img src="img/header.png">
 
-Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard University concentrating in physics with a secondary in computer science.  I'm currently employed at Google as a STEP intern and am working on the end-to-end development of a few features on an internal platform.
+Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard University concentrating in physics with a secondary in computer science.  Last summer, I was employed at Google as a STEP intern and worked on the end-to-end development of a few features on an internal platform.  Looking for research for Summer 2022.
 
 ### About Me
 
@@ -10,7 +10,7 @@ Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard Un
 
 <img src="img/bulletpoints/pronouns.png" height=20px width=20px align="left">**Pronouns**: they/them
 
-<img src="img/bulletpoints/languages.png" height=20px width=20px align="left">**Languages**: English (Native), Chinese (Intermediate)
+<img src="img/bulletpoints/languages.png" height=20px width=20px align="left">**Languages**: English (Native), Chinese (Advanced)
 
 <img src="img/bulletpoints/learning.png" height=20px width=20px align="left">**Currently Learning**: Backend web development and Kotlin
 
