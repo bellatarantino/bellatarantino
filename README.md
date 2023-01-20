@@ -2,7 +2,7 @@
 
 <img src="img/header.png">
 
-Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard University concentrating in physics with a secondary in computer science.  Last summer, I was employed at Google as a STEP intern and worked on the end-to-end development of a few features on an internal platform.  Looking for research for Summer 2022.
+Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard University concentrating in physics with a secondary in computer science.  Summer 2021 Google STEP intern and Summer 2022 CERN assistant researcher. 
 
 ### About Me
 
