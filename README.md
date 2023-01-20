@@ -1,6 +1,6 @@
 ## Nice to meet you! <img height=17px src="img/hand_wave.gif">
 
-<img src="img/header.png">
+<img src="img/header23.png">
 
 Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard University concentrating in physics with a secondary in computer science.  Summer 2021 Google STEP intern and Summer 2022 CERN assistant researcher. 
 
@@ -12,11 +12,11 @@ Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard Un
 
 <img src="img/bulletpoints/languages.png" height=20px width=20px align="left">**Languages**: English (Native), Chinese (Advanced)
 
-<img src="img/bulletpoints/learning.png" height=20px width=20px align="left">**Currently Learning**: Backend web development and Kotlin
+<img src="img/bulletpoints/learning.png" height=20px width=20px align="left">**Currently Learning**: Healthy life habits :')
 
-<img src="img/bulletpoints/interests.png" height=20px width=20px align="left">**Career Interests**: Quantum computing, software development
+<img src="img/bulletpoints/interests.png" height=20px width=20px align="left">**Career Interests**: Data analysis, software development
 
-<img src="img/bulletpoints/hobbies.png" height=21px width=21px align="left">**Hobbies**: Woodworking, Minecraft, yoga
+<img src="img/bulletpoints/hobbies.png" height=21px width=21px align="left">**Hobbies**: Bouldering, woodworking, Minecraft, yoga
 
 ### Programming Languages
 
