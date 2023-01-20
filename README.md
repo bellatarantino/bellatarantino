@@ -2,7 +2,7 @@
 
 <img src="img/header23.png">
 
-Hi there!  My name is Bella Tarantino, and I am a rising sophomore at Harvard University concentrating in physics with a secondary in computer science.  Summer 2021 Google STEP intern and Summer 2022 CERN assistant researcher. 
+Hi there!  My name is Bella Tarantino, and I am a member of the Class of 2024 at Harvard University concentrating in physics with a secondary in computer science.  Summer 2021 Google STEP intern and Summer 2022 CERN assistant researcher. 
 
 ### About Me
 
