@@ -2,7 +2,7 @@
 
 <img src="img/header23.png">
 
-Hi there!  My name is Bella Tarantino, and I am a member of the Class of 2024 at Harvard University concentrating in physics with a secondary in computer science.  Summer 2021 Google STEP intern and Summer 2022 CERN assistant researcher. 
+Hi there!  My name is Bella Tarantino, and I am a recent graduate of Harvard University (Class of 2024) with a B.A. in Physics.  Summer 2021 Google STEP intern; Summer 2022 CERN assistant researcher; and Summer 2023 NYC SBS Data Science intern.
 
 ### About Me
 
@@ -10,13 +10,13 @@ Hi there!  My name is Bella Tarantino, and I am a member of the Class of 2024 at
 
 <img src="img/bulletpoints/pronouns.png" height=20px width=20px align="left">**Pronouns**: they/them
 
-<img src="img/bulletpoints/languages.png" height=20px width=20px align="left">**Languages**: English (Native), Chinese (Advanced)
+<img src="img/bulletpoints/languages.png" height=20px width=20px align="left">**Languages**: English (Native), Chinese (Advanced), Japanese (Beginner)
 
-<img src="img/bulletpoints/learning.png" height=20px width=20px align="left">**Currently Learning**: Healthy life habits :')
+<img src="img/bulletpoints/learning.png" height=20px width=20px align="left">**Currently Learning**: Japanese and cooking!
 
-<img src="img/bulletpoints/interests.png" height=20px width=20px align="left">**Career Interests**: Data analysis, software development
+<img src="img/bulletpoints/interests.png" height=20px width=20px align="left">**Career Interests**: Data science, ML engineering
 
-<img src="img/bulletpoints/hobbies.png" height=21px width=21px align="left">**Hobbies**: Bouldering, woodworking, Minecraft, yoga
+<img src="img/bulletpoints/hobbies.png" height=21px width=21px align="left">**Hobbies**: Bouldering, woodworking, Minecraft, yoga, cooking
 
 ### Programming Languages
 
@@ -45,6 +45,6 @@ Hi there!  My name is Bella Tarantino, and I am a member of the Class of 2024 at
 
 ### Contact Me
 
-<a href="mailto:beetea0901@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:beetarantino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/beetyrant/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/isabella-tarantino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
