@@ -1,6 +1,6 @@
 ## Nice to meet you! <img height=17px src="img/hand_wave.gif">
 
-<img src="img/header23.png">
+<img src="img/header24.png">
 
 Hi there!  My name is Bella Tarantino, and I am a recent graduate of Harvard University (Class of 2024) with a B.A. in Physics.  Summer 2021 Google STEP intern; Summer 2022 CERN assistant researcher; and Summer 2023 NYC SBS Data Science intern.
 
