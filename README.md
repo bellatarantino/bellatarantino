@@ -2,7 +2,7 @@
 
 <img src="img/header24.png">
 
-Hi there!  My name is Bella Tarantino, and I am a recent graduate of Harvard University (Class of 2024) with a B.A. in Physics.  Summer 2021 Google STEP intern; Summer 2022 CERN assistant researcher; and Summer 2023 NYC SBS Data Science intern.
+Hi there!  My name is Bella Tarantino, and I am a recent graduate of Harvard University (Class of 2024) with a B.A. in Physics.  Summer 2021 Google STEP intern; Summer 2022 CERN assistant researcher; and Summer 2023 NYC SBS Data Science intern. Currently working as an Assistant Language Teacher in Akita-ken, Japan.
 
 ### About Me
 
@@ -16,7 +16,7 @@ Hi there!  My name is Bella Tarantino, and I am a recent graduate of Harvard Uni
 
 <img src="img/bulletpoints/interests.png" height=20px width=20px align="left">**Career Interests**: Data science, ML engineering
 
-<img src="img/bulletpoints/hobbies.png" height=21px width=21px align="left">**Hobbies**: Bouldering, woodworking, Minecraft, yoga, cooking
+<img src="img/bulletpoints/hobbies.png" height=21px width=21px align="left">**Hobbies**: Bouldering, gaming, yoga, Onewheeling
 
 ### Programming Languages
 
