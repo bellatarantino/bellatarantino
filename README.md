@@ -8,8 +8,6 @@ Hi there!  My name is Bella Tarantino, and I am a recent graduate of Harvard Uni
 
 <img src="img/bulletpoints/name.png" height=20px width=20px align="left">**Name**: Bella Tarantino
 
-<img src="img/bulletpoints/pronouns.png" height=20px width=20px align="left">**Pronouns**: they/them
-
 <img src="img/bulletpoints/languages.png" height=20px width=20px align="left">**Languages**: English (Native), Chinese (Advanced), Japanese (Beginner)
 
 <img src="img/bulletpoints/learning.png" height=20px width=20px align="left">**Currently Learning**: Japanese and cooking!
