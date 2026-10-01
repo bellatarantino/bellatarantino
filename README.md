@@ -39,14 +39,14 @@ A Python pipeline that reads scanned paper worksheets and outputs structured dat
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1F6FEB?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-[Repository](#) · *In progress, Fall 2026*
+[Repository](https://github.com/bellatarantino/scanner) · *In progress, Fall 2026*
 
 ### Lesson Engagement Tracking
 A study of about 500 high school English learners across two schools, using data collected through Snap & Grade. It examines how perceived difficulty, focus, and activity type relate to performance on practiced skills and on transfer tasks, and whether students can accurately assess their own work. Findings are shared through a dashboard for teachers.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat-square) ![Mixed-effects models](https://img.shields.io/badge/Mixed--effects_models-555555?style=flat-square)
 
-[Repository](#) · *In progress, Fall 2026*
+[Repository TBD](#) · *Upcoming, Fall 2026*
 
 
 ## Skills
