@@ -1,5 +1,3 @@
-# Bella Tarantino
-
 <img src="img/banner.png">
 
 ## About Me
