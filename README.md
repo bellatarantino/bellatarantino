@@ -14,7 +14,7 @@ I'm a born-and-raised New Yorker, Harvard physics grad, and early-career teacher
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📄 Automated Worksheet Reader</h3>
+<h3 align="center">Automated Worksheet Reader</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-in_progress-F4B400?style=flat-square">
@@ -41,7 +41,7 @@ Built for, of course, my own students.
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Lesson Engagement Tracking</h3>
+<h3 align="center">Lesson Engagement Tracking</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-upcoming-1E88E5?style=flat-square">
