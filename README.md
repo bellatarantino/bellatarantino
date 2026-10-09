@@ -5,10 +5,12 @@
 ## 🌸 About Me
 
 I'm a born-and-raised New Yorker, Harvard physics grad, and early-career teacher. I've interned at **Google**, **CERN**, and the **NYC Department of Small Business Services**, and now I pair those technical skills with years of tutoring and classroom teaching to build techy solutions to classroom problems.
-
-  <a href="[https://github.com/bellatarantino/scanner](https://github.com/bellatarantino/resume)">
+ 
+<p>
+  <a href="https://github.com/bellatarantino/resume">
     <img src="https://img.shields.io/badge/View_my_resume-181717?style=for-the-badge&logo=latex&logoColor=white">
   </a>
+</p>
 
 <br>
 <br>
