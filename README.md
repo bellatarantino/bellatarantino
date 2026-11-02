@@ -55,7 +55,7 @@ Built for, of course, my own students.
   <img src="https://img.shields.io/badge/Fall-2026-8E8E8E?style=flat-square">
 </p>
 
-A planned study of **~500 high school English learners** across two schools in rural Japan, using data collected through the automated worksheet reader.
+A planned study of **~300 high school English learners** in rural Japanese high school, using data collected through the automated worksheet reader.
 
 Findings will be shared with my JET Program supervisors to improve learning methods and track student progress.
 
