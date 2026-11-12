@@ -24,7 +24,7 @@ I'm a born-and-raised New Yorker, Harvard physics grad, and early-career teacher
 <h3 align="center">Automated Worksheet Reader</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-in_progress-F4B400?style=flat-square">
+   <img src="https://img.shields.io/badge/status-complete-00A600?style=flat-square">
   <img src="https://img.shields.io/badge/Fall-2026-8E8E8E?style=flat-square">
 </p>
 
@@ -51,8 +51,9 @@ Built for, of course, my own students.
 <h3 align="center">Lesson Engagement Tracking</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-upcoming-1E88E5?style=flat-square">
+  <img src="https://img.shields.io/badge/status-in_progress-F4B400?style=flat-square">
   <img src="https://img.shields.io/badge/Fall-2026-8E8E8E?style=flat-square">
+ 
 </p>
 
 An ongoing study of **~400 high school English learners** in rural Japanese high school, using data collected through the automated worksheet reader.
