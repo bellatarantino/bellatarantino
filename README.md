@@ -22,7 +22,15 @@ I'm a born-and-raised New Yorker, Harvard physics grad, and early-career teacher
   <img src="https://img.shields.io/badge/Fall-2025-8E8E8E?style=flat-square">
 </p>
 
-A corpus of ~290 hours of (my personal) individual and small-group math and computer science tutoring session transcripts with middle and high-school students. Tutor move annotations (focus, probing, telling, generic) are adapted from MathDial (Macina et al., 2023) and student engagement (passive, active, constructive, interactive) uses the ICAP framework (Chi & Wylie, 2014).
+A corpus of ~290 hours of (my personal) individual and small-group math and computer science tutoring session transcripts with middle and high-school students. Labeled with tutor move annotations (focus, probing, telling, generic) (Macina et al., 2023) and student engagement (passive, active, constructive, interactive) (Chi & Wylie, 2014).
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white">
+</p>
 
 </td>
 <td width="50%" valign="top">
