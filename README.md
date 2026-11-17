@@ -5,12 +5,6 @@
 ## 🌸 About Me
 
 I'm a born-and-raised New Yorker, Harvard physics grad, and early-career teacher. I've interned at **Google**, **CERN**, and the **NYC Department of Small Business Services**, and now I pair those technical skills with years of tutoring and classroom teaching to build techy solutions to classroom problems.
- 
-<p>
-  <a href="https://github.com/bellatarantino/resume">
-    <img src="https://img.shields.io/badge/View_my_resume-181717?style=for-the-badge&logo=latex&logoColor=white">
-  </a>
-</p>
 
 <br>
 <br>
@@ -21,16 +15,26 @@ I'm a born-and-raised New Yorker, Harvard physics grad, and early-career teacher
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Automated Worksheet Reader</h3>
+<h3 align="center">Tutoring Transcript Corpus</h3>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/status-complete-00A600?style=flat-square">
+  <img src="https://img.shields.io/badge/status-in_progress-F4B400?style=flat-square">
+  <img src="https://img.shields.io/badge/Fall-2025-8E8E8E?style=flat-square">
+</p>
+
+A corpus of ~290 hours of (my personal) individual and small-group math and computer science tutoring session transcripts with middle and high-school students. Tutor move annotations (focus, probing, telling, generic) are adapted from MathDial (Macina et al., 2023) and student engagement (passive, active, constructive, interactive) uses the ICAP framework (Chi & Wylie, 2014).
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Lesson Engagement Tracking</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-in_progress-F4B400?style=flat-square">
   <img src="https://img.shields.io/badge/Fall-2026-8E8E8E?style=flat-square">
 </p>
 
-A Python pipeline that turns my custom scanned paper post-lesson reflections into structured data, preserving pen-and-paper practice **without large-scale manual data entry**.
-
-Built for, of course, my own students.
+A Python pipeline using OpenCV that turns pen-and-paper reflections into structured data for teachers to gain long-term engagement metrics. Being used to track engagement of ~400 rural Japanese high school English learners using worksheet-reader data.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -44,99 +48,12 @@ Built for, of course, my own students.
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">Lesson Engagement Tracking</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-in_progress-F4B400?style=flat-square">
-  <img src="https://img.shields.io/badge/Fall-2026-8E8E8E?style=flat-square">
- 
-</p>
-
-An ongoing study of **~400 high school English learners** in rural Japanese high school, using data collected through the automated worksheet reader.
-
-Findings will be shared with my JET Program supervisors to improve learning methods and track student progress.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/statsmodels-4051B5?style=flat-square">
-  <img src="https://img.shields.io/badge/Mixed--effects_models-555555?style=flat-square">
-</p>
-
 </td>
 </tr>
 </table>
 <br>
 
-## 💼 Experience
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Role</th>
-      <th align="left">Organization</th>
-      <th align="right">Dates</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Assistant Language Teacher</b><br><sub>High school English</sub></td>
-      <td>JET Program<br><sub>Akita Prefecture, Japan</sub></td>
-      <td align="right">Aug 2025 – Present</td>
-    </tr>
-    <tr>
-      <td><b>Private Tutor</b><br><sub>Math, computer science, SAT/ACT, and physics</sub></td>
-      <td>Freelance<br><sub>Remote - NY, MA, JP</sub></td>
-      <td align="right">2020 – Present</td>
-    </tr>
-    <tr>
-      <td><b>Strategy and Analytics Intern</b><br><sub>M/WBE Project</sub></td>
-      <td>NYC Dept. of Small Business Services<br><sub>New York, New York</sub></td>
-      <td align="right">Summer 2023</td>
-    </tr>
-    <tr>
-      <td><b>Research Assistant</b><br><sub>ATLAS Experiment</sub></td>
-      <td>CERN<br><sub>Geneva, Switzerland</sub></td>
-      <td align="right">Summer 2022</td>
-    </tr>
-    <tr>
-      <td><b>STEP Intern</b><br><sub>Chrome Web Store Team</sub></td>
-      <td>Google<br><sub>Remote, NYC</sub></td>
-      <td align="right">Summer 2021</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-<details>
-<summary><b>More Info</b></summary>
-<br>
-
-- **CERN:** Analyzed test-run data from the ATLAS New Small Wheel detector with Python (PyROOT, NumPy, SciPy) before its unveiling. Reports informed labor and funding decisions across teams.
-
-- **NYC Small Business Services:** Cleaned and geocoded data for thousands of businesses and built reports used by city officials to monitor the success, participation, and demographics across the M/WBE program.
-
-- **Google:** Delivered three end-to-end features for an internal Chrome Web Store platform used by auditors for reviewing Extension Store extensions in a large production codebase
-
-- **JET Program:** Lead English instruction as primary instructor, coach students for speech and debate contests, and organize cultural events, lessons, and activities that interest students in English and foreign cultures at two schools, one of which caters to neurodiverse learners.
-
-- **Tutoring:** Tutor students of al ages in mathematics, competitive mathematics, physics, computer science, machine learning, and more. My students include neurodiverse learners, multilingual learners, adult learners, and gifted learners. 
-
-</details>
-
-<br>
-
-## 🎓 Education
-
-**Harvard University** · *A.B. in Physics, 2024*
-<br>Secondary in Computer Science and language citation in Chinese
-<br>
-<br>
-
-
-## 🧰 Skills and Technologies
+## 🧰 Tools
 <br>
 <div align="center">
 
