@@ -22,7 +22,7 @@ I'm a born-and-raised New Yorker, Harvard physics grad, and early-career teacher
   <img src="https://img.shields.io/badge/Fall-2025-8E8E8E?style=flat-square">
 </p>
 
-A corpus of ~290 hours of (my personal) individual and small-group math and computer science tutoring session transcripts with middle and high-school students. Labeled with tutor move annotations (focus, probing, telling, generic) (Macina et al., 2023) and student engagement (passive, active, constructive, interactive) (Chi & Wylie, 2014).
+A corpus of ~290 hours of (my personal) individual and small-group math and computer science tutoring session transcripts with middle and high-school students. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
